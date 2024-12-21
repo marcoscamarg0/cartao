@@ -1,4 +1,4 @@
-# Credit Card Form - Vite + React + Tailwind CSS
+# Teste de cartão de credito (meme) - Vite + React + Tailwind CSS
 
 Este projeto é um formulário interativo e estiloso para entrada de dados de cartão de crédito, criado como uma brincadeira usando Vite, React e Tailwind CSS.
 
