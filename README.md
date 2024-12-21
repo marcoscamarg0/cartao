@@ -26,9 +26,12 @@ Este projeto é um formulário interativo e estiloso para entrada de dados de ca
 credit-card-form/
 ├── node_modules/      # Dependências do projeto
 ├── public/            # Arquivos estáticos
-│   └── vite.svg       # Logo do Vite
+    ├── images.png 
+│   ├── vite.svg       # Logo do Vite
 ├── src/               # Código-fonte
-│   ├── assets/        # Recursos adicionais
+│   ├── components/    # Recursos adicionais
+    └── PaymentForm.jsx# Formulario de pagamento
+    └── Success.jsx    # Tela de sucesso
 │   ├── App.jsx        # Componente principal
 │   ├── index.css      # Configuração do Tailwind CSS
 │   ├── main.jsx       # Ponto de entrada da aplicação
